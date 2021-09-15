@@ -1,0 +1,135 @@
+{
+  "id": "2719216",
+  "name": "Nuggets",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "435895",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "6183157",
+      "name": "链接",
+      "font_class": "link-line",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "9728006",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11372667",
+      "name": "话题符号",
+      "font_class": "huatifuhao",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "983857",
+      "name": "20评论",
+      "font_class": "pinglun1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "3315408",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5849185",
+      "name": "分享",
+      "font_class": "fenxiang1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11372687",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    },
+    {
+      "icon_id": "111904",
+      "name": "五角星",
+      "font_class": "star",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "849959",
+      "name": "qq",
+      "font_class": "qq-copy",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "7674883",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "8361830",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "22848595",
+      "name": "点赞",
+      "font_class": "tubiao_dianzan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "572583",
+      "name": "weixin",
+      "font_class": "iconfontweixin",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "2570121",
+      "name": "反馈",
+      "font_class": "fankui-tianchong",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "9186712",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "9673157",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18986691",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    }
+  ]
+}

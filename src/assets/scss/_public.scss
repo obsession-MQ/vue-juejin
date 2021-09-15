@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.df{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.df-ai-fs{
+    align-items: flex-start;
+}
+.dfsb{
+    justify-content: space-between;
+}
+.dfsa{
+    justify-content: space-around;
+}
+.dffs{
+    justify-content: flex-start;
+}
+.dffe{
+    justify-content: flex-end;
+}
+.col{
+    flex-direction: column;
+}
+a{
+    color:#007fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+.oh1{
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+.cp{
+    cursor: pointer;
+}
